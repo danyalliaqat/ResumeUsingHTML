@@ -1,0 +1,29 @@
+h1 {
+    color: #F3F3F3;
+    font-family: Arial, sans-serif;
+    font-size: 4rem ;
+    font-weight: bold;
+    text-transform: uppercase;
+   
+}
+h2 {
+    color: #F3F3F3;
+    text-transform: uppercase;
+    font-family: Arial, sans-serif;
+    text-decoration: underline;
+}
+h3 {
+    color: blueviolet;
+}
+.dim {
+color: grey;
+text-align: left;
+}
+body{
+    background-color: #202123;
+}
+.ProfilePhoto {
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
